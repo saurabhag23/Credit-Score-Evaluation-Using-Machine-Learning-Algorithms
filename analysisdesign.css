@@ -1,0 +1,40 @@
+.personaldetails
+{
+        border: 2px solid black;
+            width: 896px;
+
+
+}
+table{
+    background-color: white;
+    margin-left: -81px;
+    width: 200px;
+    MARGIN-TOP: -33px;
+    width: 143%;
+    margin-top: -17px;
+}
+}
+table th{
+    
+        border: 1px solid black; 
+    /* padding: 5px; */
+    /* align-items: flex-start; */
+    /* align-content: flex-start; */
+    margin-left: 14px;
+    padding-left:20px;
+    padding-right:15px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    text-align: left;
+   
+       color:black;
+
+
+}
+table td{
+
+border: 1px solid black;
+
+padding-left: 5px;
+color:black;
+}
